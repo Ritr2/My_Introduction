@@ -1,7 +1,9 @@
+<img alt="Coding" width="800" src="https://s3.amazonaws.com/utep-uploads/wp-content/uploads/sparkle-box/2020/12/09153348/OU-MBAn-2020-Q3-Skyscraper-Replacement-How-Data-Science-Can-Be-Used-for-Social-Good-header-111820-JG.jpg">
+
+
 <h1 align="center">Hi 👋, I'm Ritesh Rajurkar</h1>
 <h3 align="center">Industrious Data Scientist familiar with Data gathering, Data cleaning & organizing data for use by technical & non-technical personnel. Advanced understanding of Data-Visualization, statistical, algebraic, Machine learning & other analytical techniques. Experienced at creating regression models, using predictive modelling, and analyzing data mining algorithms to deliver insights and implement action-oriented solutions to complex business problems.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://s3.amazonaws.com/utep-uploads/wp-content/uploads/sparkle-box/2020/12/09153348/OU-MBAn-2020-Q3-Skyscraper-Replacement-How-Data-Science-Can-Be-Used-for-Social-Good-header-111820-JG.jpg">
 
 - 💬 Ask me about **Data Science|Machine learning|NLP|Deep Learning|Artificial Intelligence|Python|Business Intelligence|Feature engineering|Statistic|Programming|ML Algorithms|Data Visualizations|Power BI|Data Analysis|Data Wrangling|Data Scrapping|Data Preparation|Analytics|Probability|Statistic|Linear Algebra|Calculas**
 
