@@ -1,4 +1,4 @@
-<img alt="Coding" width="800" src="https://s3.amazonaws.com/utep-uploads/wp-content/uploads/sparkle-box/2020/12/09153348/OU-MBAn-2020-Q3-Skyscraper-Replacement-How-Data-Science-Can-Be-Used-for-Social-Good-header-111820-JG.jpg">
+<img alt="Coding" width="1200" src="https://www.cdc.gov/injury/images/DataScience_1175x347.png">
 
 
 <h1 align="center">Hi 👋, I'm Ritesh Rajurkar</h1>
